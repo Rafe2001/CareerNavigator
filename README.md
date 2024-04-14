@@ -24,6 +24,8 @@ Career Navigator is a web application that helps users explore potential career 
 - Scikit-learn
 - HTML/CSS
 - Bootstrap
+- catboost
+- xgboost
 
 ## Installation
 
