@@ -2,6 +2,9 @@
 
 Career Navigator is a web application that helps users explore potential career paths based on their personal attributes and academic performance. Leveraging machine learning algorithms, Career Navigator provides personalized recommendations to guide users towards fields that align with their strengths and interests.
 
+![image](https://github.com/Rafe2001/CareerNavigator/assets/108533597/1d84305d-65e5-4391-996b-5deef053ca12)
+
+
 ## Features
 
 - **User Input**: Users provide information such as gender, academic performance, extracurricular activities, and more.
