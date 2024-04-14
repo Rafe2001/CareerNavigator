@@ -1,0 +1,10 @@
+{% extends "base.html" %}
+{% block title %}Results{% endblock %}
+{% block content %}
+<h2>Recommendation Results</h2>
+<ul class="list-group">
+    {% for recommendation in recommendations %}
+    <li class="list-group-item">{{ recommendation[0] }} <span class="badge badge-primary">{{ recommendation[1] }}</span></li>
+    {% endfor %}
+</ul>
+{% endblock %}
