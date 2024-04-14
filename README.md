@@ -1,8 +1,4 @@
-Sure, here's a basic GitHub README template for your Career Navigator project:
-
----
-
-# Career Navigator
+# CareerNavigator
 
 Career Navigator is a web application that helps users explore potential career paths based on their personal attributes and academic performance. Leveraging machine learning algorithms, Career Navigator provides personalized recommendations to guide users towards fields that align with their strengths and interests.
 
@@ -34,7 +30,7 @@ Career Navigator is a web application that helps users explore potential career 
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your_username/career-navigator.git
+git clone https://github.com/Rafe2001/CareerNavigator.git
 ```
 
 2. Install dependencies:
@@ -58,7 +54,3 @@ Contributions are welcome! If you'd like to contribute to Career Navigator, plea
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-
----
-
-Feel free to customize this README to include additional details about your project, such as deployment instructions, future plans, or any other relevant information.
